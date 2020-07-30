@@ -1,0 +1,10 @@
+//TAILWIND
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*------------*/
+
+// ADD GLOBAL IMPORTS HERE
+ @import "src/styles/scss/fonts";
+@import "src/styles/scss/layout";

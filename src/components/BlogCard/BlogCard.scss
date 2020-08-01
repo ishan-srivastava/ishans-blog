@@ -1,0 +1,21 @@
+//$randImageUrl : '/assets/images/dummy/'+random(4)+'.jpg';
+.BlogCard {
+  width: 90%;
+  margin-left: 5%;
+  max-width: 400px;
+
+}
+
+// (random(11) + 4)+px
+.blur-bg {
+  backdrop-filter: blur(8px);
+  background-color: rgba(251, 224, 220, 0.6);
+}
+
+.header-image {
+  background-color: #cccccc;
+  height: 100px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
